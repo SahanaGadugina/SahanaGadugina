@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SahanaGadugina
-- 👀 I’m interested in Java full stack developer and web developer
+- 👀 I’m interested in Java full stack development and web development
 - 🌱 I’m currently learning java and advance java concepts with web tech languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sahanagadugina1216@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...
 
 <!---
